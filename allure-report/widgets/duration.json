@@ -1,0 +1,21 @@
+[ {
+  "uid" : "65be5ffd27d76c2c",
+  "name" : "addition testing",
+  "time" : {
+    "start" : 1587712240775,
+    "stop" : 1587712258429,
+    "duration" : 17654
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa543cc19a9c5c5c",
+  "name" : "addition testing negative",
+  "time" : {
+    "start" : 1587712258429,
+    "stop" : 1587712267273,
+    "duration" : 8844
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

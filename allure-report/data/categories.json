@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expected '50' to equal '455'.",
+      "children" : [ {
+        "name" : "addition testing negative",
+        "uid" : "aa543cc19a9c5c5c",
+        "parentUid" : "39e93ce4b78f34480617904f9952bfed",
+        "status" : "failed",
+        "time" : {
+          "start" : 1587712258429,
+          "stop" : 1587712267273,
+          "duration" : 8844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "39e93ce4b78f34480617904f9952bfed"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

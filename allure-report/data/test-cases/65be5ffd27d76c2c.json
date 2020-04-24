@@ -1,0 +1,86 @@
+{
+  "uid" : "65be5ffd27d76c2c",
+  "name" : "addition testing",
+  "fullName" : "demo calculator.addition testing",
+  "historyId" : "d293c10753841778b65db6919a1592aa",
+  "time" : {
+    "start" : 1587712240775,
+    "stop" : 1587712258429,
+    "duration" : 17654
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "demo calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "demo calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "addition testing"
+  }, {
+    "name" : "package",
+    "value" : "demo calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fcdc1ecdee33b769",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587710295333,
+        "stop" : 1587710305193,
+        "duration" : 9860
+      }
+    }, {
+      "uid" : "293bb9f936b9f9a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587710103326,
+        "stop" : 1587710122011,
+        "duration" : 18685
+      }
+    }, {
+      "uid" : "328638ffd921d2ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587709884692,
+        "stop" : 1587709895954,
+        "duration" : 11262
+      }
+    }, {
+      "uid" : "ea30e2e5d9f7554c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587709822728,
+        "stop" : 1587709842196,
+        "duration" : 19468
+      }
+    }, {
+      "uid" : "f03fc641313bbee7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587703245941,
+        "stop" : 1587703256719,
+        "duration" : 10778
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65be5ffd27d76c2c.json",
+  "parameterValues" : [ ]
+}

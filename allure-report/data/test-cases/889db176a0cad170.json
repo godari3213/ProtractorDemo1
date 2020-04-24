@@ -1,0 +1,46 @@
+{
+  "uid" : "889db176a0cad170",
+  "name" : "addition testing negative",
+  "fullName" : "demo calculator.addition testing negative",
+  "historyId" : "1d9dda8add9cbb881336184857d27c42",
+  "time" : {
+    "start" : 1587709895954,
+    "stop" : 1587709904883,
+    "duration" : 8929
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '50' to equal '455'.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (C:\\Users\\srinivas.godari\\Desktop\\New Courses\\ProtractorSessionApril2020\\MYDemo1\\tests\\mytc.js:20:30)\n                    at C:\\Users\\srinivas.godari\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\srinivas.godari\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\srinivas.godari\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\srinivas.godari\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\srinivas.godari\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\srinivas.godari\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\srinivas.godari\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\srinivas.godari\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "demo calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "demo calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "addition testing negative"
+  }, {
+    "name" : "package",
+    "value" : "demo calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "889db176a0cad170.json",
+  "parameterValues" : [ ]
+}

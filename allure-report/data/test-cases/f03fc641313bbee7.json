@@ -1,0 +1,44 @@
+{
+  "uid" : "f03fc641313bbee7",
+  "name" : "addition testing",
+  "fullName" : "demo calculator.addition testing",
+  "historyId" : "d293c10753841778b65db6919a1592aa",
+  "time" : {
+    "start" : 1587703245941,
+    "stop" : 1587703256719,
+    "duration" : 10778
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "demo calculator"
+  }, {
+    "name" : "testClass",
+    "value" : "demo calculator"
+  }, {
+    "name" : "testMethod",
+    "value" : "addition testing"
+  }, {
+    "name" : "package",
+    "value" : "demo calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f03fc641313bbee7.json",
+  "parameterValues" : [ ]
+}
