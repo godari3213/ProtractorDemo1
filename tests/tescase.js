@@ -37,7 +37,7 @@
 //   });
 
 
-console.log("welcome to protractor trianing") 
+console.log("welcome to protractor trianing by Srinivas Godari") 
 
 element(by.model(''));
 se
